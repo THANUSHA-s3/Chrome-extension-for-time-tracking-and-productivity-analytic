@@ -1,4 +1,14 @@
-# Chrome-extension-for-time-tracking-and-productivity-analytic
+# Chrome-extension-for-time-tracking-and-productivity-analytic 
+
+NAME : S THANUSHA
+
+DOMAIN : Full Stack Web Development
+
+INTERN ID : CT12DL715
+
+COMPANY : CODTECH IT SOLUTIONS
+
+# step to follow:
 
 task4-extension/
 
