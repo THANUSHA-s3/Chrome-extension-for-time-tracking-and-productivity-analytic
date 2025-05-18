@@ -26,53 +26,53 @@ Click Load Unpacked.
 
 Select your task4-extension/ folder.
 
-🗄️ 2. Backend Setup (Optional but recommended)
+# Backend Setup (Optional but recommended)
 Tech stack: Node.js + Express + MongoDB
 
-create folder for backend and the code was given 
+# create folder for backend and the code was given 
 
-.env
+1..env
 
-index.js
+2.index.js
 
-package.json
+3.package.json
 
-to run this open command prompt :
+* to run this open command prompt :
 
-cd path/to/task4-backend
+1.cd path/to/task4-backend
 
-npm install
+2.npm install
 
-npm install dotenv
+3.npm install dotenv
 
-npm start
+4.npm start
 
-again open another separate command prompt to mongodb if you dont have install mongodb
+# Again open another separate command prompt to mongodb if you dont have install mongodb
 
 to run : mongod
 
-and in backend it shows like 
+ # the  backend it shows like 
 
-MongoDB connected
+* MongoDB connected
 
-Server running on port 5000
+* Server running on port 5000
 
-Open browser : http://localhost:5000/report click this it shows like 
+# Open browser : http://localhost:5000/report click this it shows like 
 
 [
   { "_id": "youtube.com", "totalTime": 60000 },
 ]
 
- Again open browser :http://localhost:5000/track click this its shows like 
+# Again open browser :http://localhost:5000/track click this its shows like 
 
  {
   "domain": "youtube.com",
   "timeSpent": 120000
 }
 
-For Productivity Dashboart create a file name dashboard.html and the code was given save as all file not txt 
+# For Productivity Dashboart create a file name dashboard.html and the code was given save as all file not txt 
 
-OUTPUT : 
+# OUTPUT : 
 
 ![Productivity Dashboard and 3 more pages - Personal - Microsoft​ Edge 18-05-2025 19_44_17](https://github.com/user-attachments/assets/2ee6c7c2-5b3d-41ca-8c21-c08366ca24c2)
 
